@@ -1,0 +1,519 @@
+{
+  "_ConfirmDialog-CoLX8MzJ.js": {
+    "file": "assets/ConfirmDialog-CoLX8MzJ.js",
+    "name": "ConfirmDialog",
+    "imports": [
+      "index.html",
+      "_DialogFrame-DIIFw1zM.js"
+    ]
+  },
+  "_CubeModel-Br-VR7p5.js": {
+    "file": "assets/CubeModel-Br-VR7p5.js",
+    "name": "CubeModel",
+    "imports": [
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js"
+    ]
+  },
+  "_Dialog-xccySxyp.css": {
+    "file": "assets/Dialog-xccySxyp.css",
+    "src": "_Dialog-xccySxyp.css"
+  },
+  "_DialogFrame-DIIFw1zM.js": {
+    "file": "assets/DialogFrame-DIIFw1zM.js",
+    "name": "DialogFrame",
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "_Editor-CVn4z5h6.css": {
+    "file": "assets/Editor-CVn4z5h6.css",
+    "src": "_Editor-CVn4z5h6.css"
+  },
+  "_Editor-DWo43wus.js": {
+    "file": "assets/Editor-DWo43wus.js",
+    "name": "Editor",
+    "imports": [
+      "index.html",
+      "_model-CqYnFxER.js",
+      "src/scene/CubeScene.ts"
+    ],
+    "css": [
+      "assets/Editor-CVn4z5h6.css"
+    ]
+  },
+  "_GlassCard-DI2o6r3A.js": {
+    "file": "assets/GlassCard-DI2o6r3A.js",
+    "name": "GlassCard",
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/NotationChip-DXa6-X2J.css"
+    ]
+  },
+  "_NotationChip-DXa6-X2J.css": {
+    "file": "assets/NotationChip-DXa6-X2J.css",
+    "src": "_NotationChip-DXa6-X2J.css"
+  },
+  "_Switch-BkGjTBG5.js": {
+    "file": "assets/Switch-BkGjTBG5.js",
+    "name": "Switch",
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/Switch-DPFuTUpc.css"
+    ]
+  },
+  "_Switch-DPFuTUpc.css": {
+    "file": "assets/Switch-DPFuTUpc.css",
+    "src": "_Switch-DPFuTUpc.css"
+  },
+  "_capture-yXbWcaGN.js": {
+    "file": "assets/capture-yXbWcaGN.js",
+    "name": "capture",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_challenge-BmjEIr7O.js": {
+    "file": "assets/challenge-BmjEIr7O.js",
+    "name": "challenge",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_context-W2PBkNi8.js": {
+    "file": "assets/context-W2PBkNi8.js",
+    "name": "context",
+    "imports": [
+      "index.html",
+      "_tutorial-HFnXTz_1.js"
+    ]
+  },
+  "_engine-DJYrISi2.js": {
+    "file": "assets/engine-DJYrISi2.js",
+    "name": "engine",
+    "imports": [
+      "index.html",
+      "_text-cXhOLJZD.js"
+    ]
+  },
+  "_math-CsPvMr7i.js": {
+    "file": "assets/math-CsPvMr7i.js",
+    "name": "math"
+  },
+  "_model-CqYnFxER.js": {
+    "file": "assets/model-CqYnFxER.js",
+    "name": "model",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_random-DMtxwQky.js": {
+    "file": "assets/random-DMtxwQky.js",
+    "name": "random",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_statistics-B7-mjsz1.js": {
+    "file": "assets/statistics-B7-mjsz1.js",
+    "name": "statistics"
+  },
+  "_text-cXhOLJZD.js": {
+    "file": "assets/text-cXhOLJZD.js",
+    "name": "text"
+  },
+  "_three-CrXk2xYr.js": {
+    "file": "assets/three-CrXk2xYr.js",
+    "name": "three"
+  },
+  "_tutorial-HFnXTz_1.js": {
+    "file": "assets/tutorial-HFnXTz_1.js",
+    "name": "tutorial",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-DWUoK1WK.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/scene/CubeScene.ts",
+      "src/ui/pages/Welcome/index.tsx",
+      "src/ui/pages/Demo/index.tsx",
+      "src/ui/pages/Capture/index.tsx",
+      "src/ui/pages/Verify/index.tsx",
+      "src/ui/pages/Solving/index.tsx",
+      "src/ui/pages/Guide/index.tsx",
+      "src/ui/pages/Complete/index.tsx",
+      "src/ui/pages/Manual/index.tsx",
+      "src/ui/pages/Timer/index.tsx",
+      "src/ui/pages/Challenge/index.tsx",
+      "src/ui/pages/Tutorial/index.tsx",
+      "src/ui/pages/Tutorial/index.tsx",
+      "src/ui/pages/Tutorial/index.tsx",
+      "src/ui/pages/Stats/index.tsx",
+      "src/ui/pages/Settings/index.tsx",
+      "src/ui/pages/Patterns/index.tsx",
+      "src/ui/pages/Patterns/index.tsx",
+      "src/ui/pages/Achievements/index.tsx"
+    ],
+    "css": [
+      "assets/index-Bif91Yoz.css"
+    ]
+  },
+  "src/scene/CubeScene.ts": {
+    "file": "assets/CubeScene-Db6iOYGb.js",
+    "name": "CubeScene",
+    "src": "src/scene/CubeScene.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js",
+      "_CubeModel-Br-VR7p5.js"
+    ]
+  },
+  "src/solver/client.ts": {
+    "file": "assets/client-DMOXP1Yw.js",
+    "name": "client",
+    "src": "src/solver/client.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_random-DMtxwQky.js"
+    ],
+    "assets": [
+      "assets/pruning-cache-Y-kpxSpv.bin"
+    ]
+  },
+  "src/solver/pruning-cache.bin": {
+    "file": "assets/pruning-cache-Y-kpxSpv.bin",
+    "src": "src/solver/pruning-cache.bin"
+  },
+  "src/ui/components/patterns/thumbnails.ts": {
+    "file": "assets/thumbnails-BpscRi2A.js",
+    "name": "thumbnails",
+    "src": "src/ui/components/patterns/thumbnails.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_three-CrXk2xYr.js",
+      "_CubeModel-Br-VR7p5.js",
+      "_math-CsPvMr7i.js"
+    ]
+  },
+  "src/ui/pages/Achievements/index.tsx": {
+    "file": "assets/Achievements-Cvdgplej.js",
+    "name": "Achievements",
+    "src": "src/ui/pages/Achievements/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_DialogFrame-DIIFw1zM.js",
+      "_tutorial-HFnXTz_1.js"
+    ],
+    "css": [
+      "assets/Achievements-BcB01O7r.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Capture/index.tsx": {
+    "file": "assets/Capture-DIVrzpDP.js",
+    "name": "Capture",
+    "src": "src/ui/pages/Capture/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_model-CqYnFxER.js",
+      "_ConfirmDialog-CoLX8MzJ.js",
+      "_capture-yXbWcaGN.js",
+      "_math-CsPvMr7i.js",
+      "src/scene/CubeScene.ts",
+      "_CubeModel-Br-VR7p5.js",
+      "_DialogFrame-DIIFw1zM.js",
+      "_three-CrXk2xYr.js"
+    ],
+    "css": [
+      "assets/Capture-BNczJn68.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Challenge/index.tsx": {
+    "file": "assets/Challenge-DQGcOXvS.js",
+    "name": "Challenge",
+    "src": "src/ui/pages/Challenge/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_DialogFrame-DIIFw1zM.js",
+      "_text-cXhOLJZD.js",
+      "src/solver/client.ts",
+      "_challenge-BmjEIr7O.js",
+      "_math-CsPvMr7i.js",
+      "_random-DMtxwQky.js"
+    ],
+    "dynamicImports": [
+      "src/scene/CubeScene.ts"
+    ],
+    "css": [
+      "assets/Challenge-Bpo7mDOA.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Complete/index.tsx": {
+    "file": "assets/Complete-C-ZSAJOp.js",
+    "name": "Complete",
+    "src": "src/ui/pages/Complete/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GlassCard-DI2o6r3A.js",
+      "_context-W2PBkNi8.js",
+      "_three-CrXk2xYr.js",
+      "_tutorial-HFnXTz_1.js"
+    ],
+    "css": [
+      "assets/Complete-zIXyF_tl.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Switch-DPFuTUpc.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Demo/index.tsx": {
+    "file": "assets/Demo-DYFXcqKE.js",
+    "name": "Demo",
+    "src": "src/ui/pages/Demo/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_capture-yXbWcaGN.js",
+      "_random-DMtxwQky.js"
+    ],
+    "dynamicImports": [
+      "src/scene/CubeScene.ts"
+    ],
+    "css": [
+      "assets/Demo-CMz1O0FW.css"
+    ]
+  },
+  "src/ui/pages/Guide/index.tsx": {
+    "file": "assets/Guide-B6DEzTox.js",
+    "name": "Guide",
+    "src": "src/ui/pages/Guide/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Switch-BkGjTBG5.js",
+      "_ConfirmDialog-CoLX8MzJ.js",
+      "_text-cXhOLJZD.js",
+      "src/scene/CubeScene.ts",
+      "_engine-DJYrISi2.js",
+      "_DialogFrame-DIIFw1zM.js",
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js",
+      "_CubeModel-Br-VR7p5.js"
+    ],
+    "css": [
+      "assets/Guide-BOaqumGq.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Dialog-xccySxyp.css",
+      "assets/Switch-DPFuTUpc.css"
+    ]
+  },
+  "src/ui/pages/Manual/index.tsx": {
+    "file": "assets/Manual-C8REZjjO.js",
+    "name": "Manual",
+    "src": "src/ui/pages/Manual/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GlassCard-DI2o6r3A.js",
+      "_Switch-BkGjTBG5.js",
+      "_model-CqYnFxER.js",
+      "_capture-yXbWcaGN.js",
+      "_Editor-DWo43wus.js",
+      "src/scene/CubeScene.ts",
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js",
+      "_CubeModel-Br-VR7p5.js"
+    ],
+    "css": [
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Dialog-xccySxyp.css",
+      "assets/Switch-DPFuTUpc.css"
+    ]
+  },
+  "src/ui/pages/Patterns/index.tsx": {
+    "file": "assets/Patterns-Gqp-qA6X.js",
+    "name": "Patterns",
+    "src": "src/ui/pages/Patterns/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_context-W2PBkNi8.js",
+      "_tutorial-HFnXTz_1.js"
+    ],
+    "dynamicImports": [
+      "src/scene/CubeScene.ts",
+      "src/ui/components/patterns/thumbnails.ts",
+      "src/solver/client.ts"
+    ],
+    "css": [
+      "assets/Patterns-DwkodVXu.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Switch-DPFuTUpc.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Settings/index.tsx": {
+    "file": "assets/Settings-FhwsrwdU.js",
+    "name": "Settings",
+    "src": "src/ui/pages/Settings/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Switch-BkGjTBG5.js",
+      "_ConfirmDialog-CoLX8MzJ.js",
+      "_capture-yXbWcaGN.js",
+      "_challenge-BmjEIr7O.js",
+      "_DialogFrame-DIIFw1zM.js"
+    ],
+    "css": [
+      "assets/Settings-wIluxPCh.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Dialog-xccySxyp.css",
+      "assets/Switch-DPFuTUpc.css"
+    ]
+  },
+  "src/ui/pages/Solving/index.tsx": {
+    "file": "assets/Solving-D0esXf-2.js",
+    "name": "Solving",
+    "src": "src/ui/pages/Solving/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GlassCard-DI2o6r3A.js",
+      "src/scene/CubeScene.ts",
+      "src/solver/client.ts",
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js",
+      "_CubeModel-Br-VR7p5.js",
+      "_random-DMtxwQky.js"
+    ],
+    "css": [
+      "assets/Solving-C-aVnTS4.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Switch-DPFuTUpc.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Stats/index.tsx": {
+    "file": "assets/Stats-CrTGVcfr.js",
+    "name": "Stats",
+    "src": "src/ui/pages/Stats/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ConfirmDialog-CoLX8MzJ.js",
+      "_statistics-B7-mjsz1.js",
+      "_DialogFrame-DIIFw1zM.js"
+    ],
+    "css": [
+      "assets/Stats-CojKgby9.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Switch-DPFuTUpc.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Timer/index.tsx": {
+    "file": "assets/Timer-BsiIuP35.js",
+    "name": "Timer",
+    "src": "src/ui/pages/Timer/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Switch-BkGjTBG5.js",
+      "_ConfirmDialog-CoLX8MzJ.js",
+      "_DialogFrame-DIIFw1zM.js",
+      "_context-W2PBkNi8.js",
+      "src/solver/client.ts",
+      "_statistics-B7-mjsz1.js",
+      "_tutorial-HFnXTz_1.js",
+      "_random-DMtxwQky.js"
+    ],
+    "dynamicImports": [
+      "src/scene/CubeScene.ts"
+    ],
+    "css": [
+      "assets/Timer-Cfbzx4G0.css",
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Switch-DPFuTUpc.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Tutorial/index.tsx": {
+    "file": "assets/Tutorial-B5wzn-ja.js",
+    "name": "Tutorial",
+    "src": "src/ui/pages/Tutorial/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_context-W2PBkNi8.js",
+      "_tutorial-HFnXTz_1.js",
+      "src/scene/CubeScene.ts",
+      "_Switch-BkGjTBG5.js",
+      "_text-cXhOLJZD.js",
+      "_engine-DJYrISi2.js",
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js",
+      "_CubeModel-Br-VR7p5.js"
+    ],
+    "css": [
+      "assets/Tutorial-Df5CQwYW.css",
+      "assets/Switch-DPFuTUpc.css"
+    ]
+  },
+  "src/ui/pages/Verify/index.tsx": {
+    "file": "assets/Verify-Cxx-OKdt.js",
+    "name": "Verify",
+    "src": "src/ui/pages/Verify/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_GlassCard-DI2o6r3A.js",
+      "_model-CqYnFxER.js",
+      "_text-cXhOLJZD.js",
+      "_random-DMtxwQky.js",
+      "_capture-yXbWcaGN.js",
+      "_Editor-DWo43wus.js",
+      "src/scene/CubeScene.ts",
+      "_three-CrXk2xYr.js",
+      "_math-CsPvMr7i.js",
+      "_CubeModel-Br-VR7p5.js"
+    ],
+    "css": [
+      "assets/NotationChip-DXa6-X2J.css",
+      "assets/Switch-DPFuTUpc.css",
+      "assets/Dialog-xccySxyp.css"
+    ]
+  },
+  "src/ui/pages/Welcome/index.tsx": {
+    "file": "assets/Welcome-CXbl-8Gq.js",
+    "name": "Welcome",
+    "src": "src/ui/pages/Welcome/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/Welcome-C2G5_cmn.css"
+    ]
+  }
+}
